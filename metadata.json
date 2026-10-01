@@ -1,0 +1,6 @@
+{
+  "name": "Café Coffee Day — A Lot Can Happen Over Coffee",
+  "description": "The official reimagined digital experience for Café Coffee Day India. Discover handcrafted coffees, authentic Chikmagalur estate beans, café locator, interactive menu, and coffee stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
